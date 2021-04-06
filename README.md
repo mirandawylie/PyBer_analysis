@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Overview
-PyBer, a ride sharing app, wants to improve access to ride sharing services and determine affordability for underserved neighborhoods. With the PyBer city and ride data provided I examined the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type to determine the key difference in ride sharing based on city type. The differences in urban, suburban, and rural outcomes can be used by decision-makers at PyBer to improve services.
+PyBer, a ride sharing app, wants to improve access to ride sharing services and determine affordability for underserved neighborhoods. With the PyBer city and ride data provided I examined the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type to determine the key difference in ride sharing based on city type. The differences in urban, suburban, and rural outcomes can be used by PBer decision-makers to improve services.
 
 Link to city and ride date: https://github.com/mirandawylie/PyBer_analysis/tree/main/resources
 
