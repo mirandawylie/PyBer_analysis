@@ -10,16 +10,18 @@ Link to Jupyter notebook: https://github.com/mirandawylie/PyBer_analysis/blob/a5
 ## Results
 When dividing up the total rides, total drivers, total fares, average fare per ride and driver by rural, suburban, and urban city types the ride-sharing data shows that:
 
-* rural cities use ride-sharing the least, urban cities use 
-* ride-sharing the most* rural cities have the highest average fare per ride and driver
+* rural cities use ride-sharing the least, urban cities use ride-sharing the most
+* rural cities have the highest average fare per ride and driver
 * urban cities have the highest total fares and yet the least average fare per ride and driver
 * rural cities have a ratio of 1 driver to 1.6 rides
 * suburban cities have a ratio of 1 driver per 1.27 rides
 * urban cities have a ration of 1 driver per .67 rides
 ![PyBer_dataframe_bycity.png](analysis/PyBer_dataframe_bycity.png)
 
-By resampling the data frame by week, I was able to create a multiple-line chart to show the total fares for each week by city for the date range January 1st, 2019 through April 29th, 2019.
+Data was resampled to examine the outcomes by week.
 ![PyBer_fare_byweek.png](analysis/PyBer_fare_byweek.png)
+
+Finally, using the outcomes by week, I created a multiple-line chart to show the total fares for each week by city for the date range 1/1/2019 - 4/29/2019.
 ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 When looking at the data in this chart one can begin to narrow in on the peaks and dips of ride-sharing per city and time of year. Some similarities, like all cities experiencing an increase in ride sharing at the end of February, are worth noting for any potential company wide changes.
